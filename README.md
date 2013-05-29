@@ -1,0 +1,2 @@
+# kimiboku.github.com
+なんとなくなWebページです
